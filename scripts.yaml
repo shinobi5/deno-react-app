@@ -1,3 +1,3 @@
 scripts:
-  build: deno bundle src/index.tsx src/app.js
+  build: deno bundle src/index.tsx src/index.js
   start: deno run --allow-net --allow-read scripts/create-server.ts

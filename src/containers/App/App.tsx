@@ -18,8 +18,8 @@ const App = () => {
   return (
     <>
       <h1>Panthor</h1>
-      <Button onClick={() => setCount(count + 1)}>Click the</Button>
-      <p>You clicked the { count } times</p>
+      <Button onClick={() => setCount(count + 1)}>Click me!</Button>
+      <p>You clicked { count } times</p>
     </>
   );
 };

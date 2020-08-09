@@ -1,4 +1,4 @@
-import React from 'https://dev.jspm.io/react';
+import React from 'https://cdn.skypack.dev/react';
 import Button from '../../components/Button/Button.tsx';
 
 declare global {

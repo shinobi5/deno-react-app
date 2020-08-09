@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', () => {
   // @todo: still needs server side code to handle SSR
   // @ts-ignore
   ReactDOM.hydrate(
-      // @todo: get rid of all of these ts-ignores currently in the code base...
+    // @todo: get rid of all of these ts-ignores currently in the code base...
     //@ts-ignore
     <App />,
     //@ts-ignore

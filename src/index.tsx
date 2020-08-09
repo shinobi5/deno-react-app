@@ -1,6 +1,6 @@
 /*
-  @todo: probably best to use current versions for the core external modules that are
-  core to the boilerplate code. This is not accurate of how it could be used in production.
+  @todo: probably best to use current versions for the external modules that are core
+  to the boilerplate code. This is not accurate of how it could be used in production.
  */
 import React from 'https://cdn.skypack.dev/react';
 import ReactDOM from 'https://cdn.skypack.dev/react-dom';

@@ -17,9 +17,9 @@ const App = () => {
 
   return (
     <>
-      <h1>Hello DenoLand!</h1>
-      <Button onClick={() => setCount(count + 1)}>Click the 🦕</Button>
-      <p>You clicked the 🦕 { count } times</p>
+      <h1>Panthor</h1>
+      <Button onClick={() => setCount(count + 1)}>Click the</Button>
+      <p>You clicked the { count } times</p>
     </>
   );
 };

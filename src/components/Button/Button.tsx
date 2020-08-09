@@ -1,5 +1,5 @@
-import React from 'https://dev.jspm.io/react';
-import css from 'https://unpkg.com/csz';
+import React from 'https://cdn.skypack.dev/react';
+import css from 'https://cdn.skypack.dev/csz';
 
 declare global {
   namespace JSX {

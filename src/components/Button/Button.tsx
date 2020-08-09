@@ -10,6 +10,7 @@ declare global {
   }
 }
 
+// @todo: sort these types out across the code base
 const Button = (props: any) => 
   <button 
     className={css`

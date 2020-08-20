@@ -1,4 +1,4 @@
-<h1 align="center">:smiling_imp: Panthor</h1>
+<h1 align="center">:smiling_imp: Deno React App</h1>
 
 <p align="center">React boilerplate with <a href="https://deno.land/">Deno</a>.</p>
 
